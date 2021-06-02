@@ -1,0 +1,35 @@
+{
+  "name": "nucliweb-image-optimization",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Image Optimizacion environment with Sharp",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nucliweb/nucliweb-image-optimization.git"
+  },
+  "keywords": [
+    "image",
+    "webperf",
+    "wpo",
+    "jpeg",
+    "png",
+    "webp",
+    "avif"
+  ],
+  "author": {
+    "name": "Joan León",
+    "twitter": "@nucliweb",
+    "email": "joan.leon@gmail.com"
+  },
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/nucliweb/nucliweb-image-optimization/issues"
+  },
+  "homepage": "https://github.com/nucliweb/nucliweb-image-optimization#readme",
+  "dependencies": {
+    "sharp": "^0.28.3"
+  }
+}
