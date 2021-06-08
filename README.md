@@ -10,5 +10,5 @@
 - [x] Primera versión del script
 - [ ] Extraer la configuración a un archivo externo
 - [ ] Publicar la configuración en un paquete NPM
-- [ ] Generar componete demo
+- [ ] Generar componente demo
 
