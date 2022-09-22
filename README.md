@@ -8,7 +8,7 @@
 ## ToDo
 
 - [x] Primera versión del script
-- [ ] Extraer la configuración a un archivo externo
+- [x] Extraer la configuración a un archivo externo
 - [ ] Publicar la configuración en un paquete NPM
 - [ ] Generar componente demo
 
